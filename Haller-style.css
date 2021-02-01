@@ -1,0 +1,31 @@
+p{font-size: 20px;
+}
+.skills {
+  color: red;
+  background: #e7e7de;
+  border: 4px dotted blue;
+  padding: 35px;
+  font-family: 'Potta One', cursive;
+}
+.research {
+  color: #008891;
+  background: #ee99a0;
+  border: 8px double purple;
+  font-family: 'Indie Flower', cursive;
+}
+.password {
+color: #4e3d53;
+font-size: 10px;
+margin: 50px;
+}
+.picture {
+  background: gray;
+}
+.soccer {}
+h1 {color: #008891;
+text-align: center;
+padding: 2px;
+border-bottom: 5px solid blue;
+}
+h1 {font-family: 'Architects Daughter', cursive;
+}
